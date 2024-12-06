@@ -1,11 +1,11 @@
 # LC-Solution-Sales-Analysis
 ## A Project by LC Solution Ltd
 
-### INTRODUCTION
+### Introduction
 
 This analysis was made to detail the structure and sales pattern of some products used in offices around several states. The process of production of this product was distributed across various markets and the sales data was provided but incomplete, some key performance indicators for financials and effective running of a business wasn’t included and without this KPIs the analysis will not be reliable for decision making and this was where Data Analysis Expression (DAX) was used.
 
-### DATA ANALYSIS EXPRESSIONS (DAX)
+### Data Analysis Expressions (DAX)
 
 DAX is a formula expression language used in analysis services, Power BI and power pivot in Excel. DAX formulas include functions, operators and values to perform advanced calculations and queries on data in related tables and columns. It is a functional language and can be used to generate new columns, new tables and measures.
 
@@ -17,7 +17,7 @@ In this analysis DAX was used to create several columns that are not included in
 
 * Measures: Measures are computations in Power BI, executed and displayed on a visual. They are summarization of data and it uses simple aggregate functions like SUM, AVG, COUNT etc. Measures was used in this analysis to calculate the total revenue across all products supplied in the various markets and states.
 
-### DATA VISUALIZATION
+### Data Visualization
 
 The dashboard created answered the following questions.
 
@@ -46,3 +46,15 @@ The dashboard created answered the following questions.
 * Analysis of the general performance of the store began with a trend of sales for each month which showed a slow and unsteady increase in the number of products ordered every year with an increase in the number of orders for office supplies as the end of the year approaches, possibly due to customers preparing for the New Year.
 
 * It was also observed that Chibok Store was the least store with a record sales loss of #31,680 in revenue.
+
+### Recommendations
+
+* Some products should be discontinued due to their poor performance and their high cost of manufacturing which yields loss.
+
+* Creating Targeted Ads for States With Lower %Orders - the number of sales in states such as Adamawa, Borno, Imo, Ogun and Osun can be improved by the creation and broadcasting of targeted ads that suit the needs of individuals in the geographical region.
+
+
+
+
+
+
