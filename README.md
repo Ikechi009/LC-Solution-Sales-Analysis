@@ -34,9 +34,12 @@ The dashboard created answered the following questions.
 ![LC Solution Sales Dashboard 2](https://github.com/user-attachments/assets/85049a96-1c47-4104-b597-8f66cb1e76ae)
 
 ![LC Solutions Sales Dashboard 3](https://github.com/user-attachments/assets/3eb74272-a2b3-4514-b9c9-f393f305465d)
+                                         
+* The key products driving performance are Service Plan, Parts and Copier Sale
 
+* Printer Sale and Copier Sale should be discontinued based on poor outcomes and also the cost of production of this products are relatively too high compare to their outcome, very low profit.
 
-
+* Ekiti state market was discovered to be a sales hotspot with #5.57bn of the total revenue coming from customers in Lagos, with Abia state market and Bayelsa state ranking second and third with #5.0bn and #4.2bn respectively.
 
 
 
