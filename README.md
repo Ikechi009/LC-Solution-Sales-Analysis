@@ -41,6 +41,6 @@ The dashboard created answered the following questions.
 
 * Ekiti state market was discovered to be a sales hotspot with #5.57bn of the total revenue coming from customers in Ekiti, with Abia state market and Bayelsa state market ranking second and third with #5.0bn and #4.2bn respectively.
 
-
+* With the products being in the Day Category, you would think that the top sale would-be made in the public holiday or season period but after analysis of the data, it was discovered that over three quarter of the total orders were from the regular workday Consumer category with 742,324 of the total orders and customers in the Local holiday category at the tail end with 2.759.
 
 
