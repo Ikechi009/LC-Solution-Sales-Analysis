@@ -1,6 +1,13 @@
 # LC-Solution-Sales-Analysis
 ## A Project by LC Solution Ltd
 
+## Table Of Outline
+
+
+
+
+
+
 ### Introduction
 
 This analysis was made to detail the structure and sales pattern of some products used in offices around several states. The process of production of this product was distributed across various markets and the sales data was provided but incomplete, some key performance indicators for financials and effective running of a business wasn’t included and without this KPIs the analysis will not be reliable for decision making and this was where Data Analysis Expression (DAX) was used.
