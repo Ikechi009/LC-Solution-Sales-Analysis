@@ -53,6 +53,10 @@ The dashboard created answered the following questions.
 
 * Creating Targeted Ads for States With Lower %Orders - the number of sales in states such as Adamawa, Borno, Imo, Ogun and Osun can be improved by the creation and broadcasting of targeted ads that suit the needs of individuals in the geographical region.
 
+* Increased Customer Retention - The store should build a stronger relationship with the dedicated customer by offering discounts and sales to increase their customer retention and thereby increase the total number of orders per year.
+
+* Adequate Staffing During the Last Quarter of The Year - The increase in the number of orders in the last quarter of each year should be taken into account and an adequate number of staff should be available for the timely processing of orders and also prevent staff from getting overwhelmed which could lead to a reduction in their productivity.
+
 
 
 
