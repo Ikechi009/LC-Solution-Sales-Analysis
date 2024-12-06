@@ -19,8 +19,14 @@ In this analysis DAX was used to create several columns that are not included in
 
 ### DATA VISUALIZATION
 
+The dashboard created answered the following questions.
+
 * What key products are the drivers of performance?
 
 * If a product is to be discontinued due to poor outcomes, what product would this be?
+
+* Top 10 market in relative to revenue
+
+* Top 10 stores in relative to revenue and units sold
 
 
