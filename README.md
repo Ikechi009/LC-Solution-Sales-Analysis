@@ -39,7 +39,7 @@ The dashboard created answered the following questions.
 
 * Printer Sale and Copier Sale should be discontinued based on poor outcomes and also the cost of production of this products are relatively too high compare to their outcome, very low profit.
 
-* Ekiti state market was discovered to be a sales hotspot with #5.57bn of the total revenue coming from customers in Lagos, with Abia state market and Bayelsa state ranking second and third with #5.0bn and #4.2bn respectively.
+* Ekiti state market was discovered to be a sales hotspot with #5.57bn of the total revenue coming from customers in Ekiti, with Abia state market and Bayelsa state market ranking second and third with #5.0bn and #4.2bn respectively.
 
 
 
