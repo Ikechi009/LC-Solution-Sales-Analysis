@@ -13,6 +13,6 @@ In this analysis DAX was used to create several columns that are not included in
 
 * New Columns: Also known as calculated columns are useful when a required reporting field is missing from the original data and it can be generated using DAX.
 
- The Data analysis expressions was used to create additional column for the region number, and calculated column for discount rate, discount, manufacture cost, profit after tax, profit before tax, tax, profit margin and revenue, provided that the data already include some relevant fields to provide other relevant fields needed for analysis.
+ The Data analysis expressions was used to create additional column for the region number, and calculated column for total revenue, provided that the data already include some relevant fields to provide other relevant fields needed for analysis.
 
 * Measures: Measures are computations in Power BI, executed and displayed on a visual. They are summarization of data and it uses simple aggregate functions like SUM, AVG, COUNT etc. Measures was used in this analysis to calculate the total revenue across all products supplied in the various markets and states.
