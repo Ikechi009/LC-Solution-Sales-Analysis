@@ -29,4 +29,15 @@ The dashboard created answered the following questions.
 
 * Top 10 stores in relative to revenue and units sold
 
+![LC Solution Sales Dashboard 1](https://github.com/user-attachments/assets/ffb42ca3-77f9-440a-ada6-f52080a395de)
+
+![LC Solution Sales Dashboard 2](https://github.com/user-attachments/assets/85049a96-1c47-4104-b597-8f66cb1e76ae)
+
+![LC Solutions Sales Dashboard 3](https://github.com/user-attachments/assets/3eb74272-a2b3-4514-b9c9-f393f305465d)
+
+
+
+
+
+
 
