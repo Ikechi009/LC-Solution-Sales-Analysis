@@ -43,4 +43,6 @@ The dashboard created answered the following questions.
 
 * With the products being in the Day Category, you would think that the top sale would-be made in the public holiday or season period but after analysis of the data, it was discovered that over three quarter of the total orders were from the regular workday Consumer category with 742,324 of the total orders and customers in the Local holiday category at the tail end with 2,759.
 
+* Analysis of the general performance of the store began with a trend of sales for each month which showed a slow and unsteady increase in the number of products ordered every year with an increase in the number of orders for office supplies as the end of the year approaches, possibly due to customers preparing for the New Year.
 
+* It was also observed that Chibok Store was the least store with a record sales loss of #31,680 in revenue.
